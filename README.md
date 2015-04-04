@@ -52,6 +52,9 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 
 Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 
+### Mapa
+Se localize com o Google Maps para todos os locais aqui listados (e mais alguns outros): https://www.google.com/maps/d/edit?mid=zQ1wqF4tQeDQ.kIlu4mTRwi9E
+
 ### Fique por dentro das novidades
 
 * [Comunidade Google I/O no Plus](https://plus.google.com/u/0/communities/105113874753230740413)
