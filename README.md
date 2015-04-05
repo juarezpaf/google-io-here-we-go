@@ -18,7 +18,6 @@ O [DS-160](https://ceac.state.gov/genniv) é o formulário que você precisará 
 
 Para esclarecer qualquer dúvida no processo confira os vídeos na página da [Embaixada Americana](http://portuguese.brazil.usembassy.gov/visavideos.html) ou ainda um resumão no canal ["Um bilhete, por favor"](https://www.youtube.com/watch?v=8BBak2uIW6M).
 
-
 ### Passagem
 Vale lembrar que se você ainda não possui o Visto Americano tome cuidado, pois existe a possibilidade de seu visto não ser aceito, por isso a Embaixada Americana recomenda comprar passagens apenas após certificar que seu visto foi aceito.
 
@@ -26,12 +25,16 @@ As passagens áreas costumam ser muito caras saindo do Brasil para os EUA, ainda
 
 **Head's up:** Se encontrarmos promoções de passagens avisaremos através da hashtag #googleioherewego
 
-
 ### Hospedagem
 Existem várias opções de hospedagem em San Francisco, algumas recomendações para que você não precise pagar táxi:
 
 * [Hi Hostel San Francisco DownTown](http://www.sfhostels.org/downtown)
 * [vantaggio](http://www.vantaggiosuites.com/sf-turk.html)
+
+### Internet (Plano de dados pré-pago nos EUA)
+Conexão com a Internet virou praticamente necessidade básica dos seres humanos, principalmente quando você viaja e ainda mais se você pretende fazer passeios turísticos, nos EUA é possível encontrar wifi disponível em diversos estabelecimentos: Starbucks, McDonald's e tantos outros lugares, mas claro que você vai querer explorar os lugares, manter contato com sua família e compartilhar as experiências nas redes sociais e para isso é imprescindível ter um plano de dados, existem [várias opções disponíveis](http://www.tudocelular.com/planos/noticias/n48223/Como-fugir-do-roaming-internacional-e-economizar-muito-dinheiro-em-uma-viagem.html), mas uma opção altamente recomendada é adquirir um [plano pré-pago da AT&T](http://www.att.com/shop/wireless/plans/prepaidplans.html) com valor inicial de US$45/mês ou ainda se você está viajando em grupo uma outra opção é adquirir um [Mobile Hotspot](http://www.att.com/att/gophone-mobile-hotspot/en/index.html) com plano exclusivo de dados.
+
+Portanto fuja do Roaming Internacional, adquira um plano pré-pago e divirta-se nas terras do Tio Sam.
 
 ### Empresas próximas ao local do Google I/O
 Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira uma pequena lista com algumas opções:
@@ -46,7 +49,6 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 * [Mozilla SF](https://foursquare.com/v/mozilla-san-francisco/4e1c9853c65bc4a776bc60dc)
 * [Heroku HQ](https://foursquare.com/v/heroku/4b07537df964a5200afc22e3)
 * [Square HQ](https://foursquare.com/v/square-hq/4b042837f964a520ad5122e3)
-
 
 ### Meetups
 
