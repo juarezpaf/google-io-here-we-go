@@ -36,6 +36,9 @@ Conexão com a Internet virou praticamente necessidade básica dos seres humanos
 
 Portanto fuja do Roaming Internacional, adquira um plano pré-pago e divirta-se nas terras do Tio Sam.
 
+### Para participantes do Google/IO
+Se você vai participar do Google/IO eles preparam uma sessão especial no site, chamada ["Attend Onsite"](https://events.google.com/io2015/onsite), com vários detalhes interessantes como: Aeroportos próximos, hotéis com desconto, como chegar no **Moscone Center West** e uma parceria especial com o **Lyft**, basta usar o cupom de desconto "GOOGLEIO" e ganhar $50 off nas primeiras 10 corridas.
+
 ### Empresas próximas ao local do Google I/O
 Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira uma pequena lista com algumas opções:
 
