@@ -30,11 +30,18 @@ Existem várias opções de hospedagem em San Francisco, algumas recomendações
 
 * [Hi Hostel San Francisco DownTown](http://www.sfhostels.org/downtown)
 * [vantaggio](http://www.vantaggiosuites.com/sf-turk.html)
+* [Airbnb](https://www.airbnb.com) - Ótima opção para quem pretende ir em grupo/família
 
 ### Internet (Plano de dados pré-pago nos EUA)
 Conexão com a Internet virou praticamente necessidade básica dos seres humanos, principalmente quando você viaja e ainda mais se você pretende fazer passeios turísticos, nos EUA é possível encontrar wifi disponível em diversos estabelecimentos: Starbucks, McDonald's e tantos outros lugares, mas claro que você vai querer explorar os lugares, manter contato com sua família e compartilhar as experiências nas redes sociais e para isso é imprescindível ter um plano de dados, existem [várias opções disponíveis](http://www.tudocelular.com/planos/noticias/n48223/Como-fugir-do-roaming-internacional-e-economizar-muito-dinheiro-em-uma-viagem.html), mas uma opção altamente recomendada é adquirir um [plano pré-pago da AT&T](http://www.att.com/shop/wireless/plans/prepaidplans.html) com valor inicial de US$45/mês ou ainda se você está viajando em grupo uma outra opção é adquirir um [Mobile Hotspot](http://www.att.com/att/gophone-mobile-hotspot/en/index.html) com plano exclusivo de dados.
 
 Portanto fuja do Roaming Internacional, adquira um plano pré-pago e divirta-se nas terras do Tio Sam.
+
+### Dicas para viajantes
+- [Casal Partiu](http://casalpartiu.com.br) - casalpartiu.com.br
+- [Fórmula de Passagens](http://formuladepassagens.com.br) - formuladepassagens.com.br
+- [Nômades digitais](http://nomadesdigitais.com) - nomadesdigitais.com
+- [Guia 4 Rodas, manual do viajante](http://viajeaqui.abril.com.br/manual-do-viajante) - viajeaqui.abril.com.br/manual-do-viajante
 
 ### Para participantes do Google/IO
 Se você vai participar do Google/IO eles preparam uma sessão especial no site, chamada ["Attend Onsite"](https://events.google.com/io2015/onsite), com vários detalhes interessantes como: Aeroportos próximos, hotéis com desconto, como chegar no **Moscone Center West** e uma parceria especial com o **Lyft**, basta usar o cupom de desconto "GOOGLEIO" e ganhar $50 off nas primeiras 10 corridas.
@@ -54,7 +61,6 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 * [Square HQ](https://foursquare.com/v/square-hq/4b042837f964a520ad5122e3)
 
 ### Meetups
-
 Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 
 ### Mapa
@@ -62,10 +68,9 @@ Se localize com o Google Maps para todos os locais aqui listados (e mais alguns 
 
 ### Apps
 Aplicativos que você pode baixar para aproveitar 100% da experiência de San Francisco:
-* Uber, para pedir táxis e carros particulares: [Android](https://play.google.com/store/apps/details?id=com.ubercab), [iOS](https://itunes.apple.com/br/app/uber/id368677368?mt=8)
+* [Uber](https://www.uber.com), para pedir táxis e carros particulares: [Android](https://play.google.com/store/apps/details?id=com.ubercab), [iOS](https://itunes.apple.com/br/app/uber/id368677368?mt=8)
 
 ### Fique por dentro das novidades
-
 * [Comunidade Google I/O no Plus](https://plus.google.com/u/0/communities/105113874753230740413)
 * [Hashtag: #io15](https://twitter.com/search?q=%23io5)
 
