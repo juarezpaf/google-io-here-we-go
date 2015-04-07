@@ -10,7 +10,7 @@ Claro que você não vai sair gritando por aí não é verdade? Brincadeiras a p
 
 ### Passaporte e Visto Americano
 
-O primeiro passo que você deve dar em direção a qualquer viagem para fora do Brasil é ter em mãos seu passaporte, se você ainda não tem siga os passos no [site da Receita Federal](http://www.dpf.gov.br/servicos/passaporte/passaporte) ou ainda [assita esse vídeo](https://www.youtube.com/watch?v=4zJo8ZjIYP8)
+O primeiro passo que você deve dar em direção a qualquer viagem para fora do Brasil é ter em mãos seu passaporte, se você ainda não tem siga os passos no [site da Receita Federal](http://www.dpf.gov.br/servicos/passaporte/passaporte) ou ainda [assista esse vídeo](https://www.youtube.com/watch?v=4zJo8ZjIYP8)
 
 Passaporte em mãos? Ótimo! Você já pode viajar para diversos lugares ao redor do mundo, mas para os Estados Unidos você vai precisar do Visto Americano. Isso mesmo, os EUA como alguns outros países exitem uma permissão para entrada de estrangeiros no país. O processo é um pouco trabalhoso, pois em apenas algumas cidades existem os consulados Americanos e possivelmente você precisará se deslocar para enfrentar dois dias do processo.
 
