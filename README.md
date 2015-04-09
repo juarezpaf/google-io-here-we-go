@@ -80,7 +80,7 @@ Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 ### Mapas
 * [Mapa de empresas](https://www.google.com/maps/d/edit?mid=zQ1wqF4tQeDQ.kIlu4mTRwi9E) 
 * [Mapas de locais turísticos](https://www.google.com/maps/d/u/0/edit?mid=zQjfhyXq5Hdk.kddGe7C9boGY)
-* [Guia SF Chaperon](http://issuu.com/sfchaperon/docs/chaperon_2013_portuguese)
+* [Guia SF Chaperon(revista)](http://issuu.com/sfchaperon/docs/chaperon_2013_portuguese), tem alguns descontos inclusos. Aqui você pode visualizar todos eles pelo site: [http://chaperon.com/coupon.php?lang=es](http://chaperon.com/coupon.php?lang=es)
 
 ### Apps
 Aplicativos que você pode baixar para aproveitar 100% da experiência de San Francisco:
