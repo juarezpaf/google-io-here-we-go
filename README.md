@@ -79,7 +79,7 @@ Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 
 ### Mapas
 * [Mapa de empresas](https://www.google.com/maps/d/edit?mid=zQ1wqF4tQeDQ.kIlu4mTRwi9E) 
-* [Mapas de locais turísticos](goo.gl/0vYLhE)
+* [Mapas de locais turísticos](https://www.google.com/maps/d/u/0/edit?mid=zQjfhyXq5Hdk.kddGe7C9boGY)
 * [Guia SF Chaperon](http://issuu.com/sfchaperon/docs/chaperon_2013_portuguese)
 
 ### Apps
