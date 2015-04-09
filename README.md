@@ -60,11 +60,27 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 * [Heroku HQ](https://foursquare.com/v/heroku/4b07537df964a5200afc22e3)
 * [Square HQ](https://foursquare.com/v/square-hq/4b042837f964a520ad5122e3)
 
+### Turismo
+
+* [TOUR DO VALE DO SILÍCIO EM UM DIA](http://diretodovale.com/2014/01/19/tour-do-vale-do-silicio-em-um-dia/)
+* [14 Sights You Must See In Silicon Valley](http://www.businessinsider.com/the-best-places-to-see-in-silicon-valley-2010-10?op=1)
+* [Memorial Day](http://www.sftourismtips.com/memorial-day-in-san-francisco.html)
+* [Bars](http://www.sftourismtips.com/irish-pubs-in-san-francisco.html)
+
 ### Meetups
 Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 
-### Mapa
-Se localize com o Google Maps para todos os locais aqui listados (e mais alguns outros): https://www.google.com/maps/d/edit?mid=zQ1wqF4tQeDQ.kIlu4mTRwi9E
+### Transporte
+
+* [Trem](http://www.caltrain.com/stations.html)
+* [Mapa de estações](https://drive.google.com/open?id=0B54_KAxOREh0dTlPc0RDZHBmZnc&authuser=0)
+* [SF região do Moscone](https://drive.google.com/open?id=0B54_KAxOREh0ekw2Q1haS3kyRjg&authuser=0)
+* [SF Geral](https://drive.google.com/open?id=0B54_KAxOREh0VUNVT0dKcmtVajg&authuser=0)
+
+### Mapas
+* [Mapa de empresas](https://www.google.com/maps/d/edit?mid=zQ1wqF4tQeDQ.kIlu4mTRwi9E) 
+* [Mapas de locais turísticos](goo.gl/0vYLhE)
+* [Guia SF Chaperon](http://issuu.com/sfchaperon/docs/chaperon_2013_portuguese)
 
 ### Apps
 Aplicativos que você pode baixar para aproveitar 100% da experiência de San Francisco:
