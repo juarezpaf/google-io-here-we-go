@@ -70,25 +70,25 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 * [Square HQ](https://foursquare.com/v/square-hq/4b042837f964a520ad5122e3)
 
 ### Mobilidade Urbana
-Caso opte por utilizar o transporte público em San Francisco, você tem basicamente duas opções: BART ou MUNI). Nos dois casos recomendo adquirir o [Clipper Card](https://www.clippercard.com/). Ele funciona como o Bilhete Único ou qualquer outro cartão de bilhetagem de transporte e você pode adquirir nos terminais de compra do bilhete do MUNI. 
+Caso opte por utilizar o transporte público em San Francisco, você tem basicamente duas opções: BART ou MUNI. Nos dois casos recomendo adquirir o [Clipper Card](https://www.clippercard.com/). Ele funciona como o Bilhete Único ou qualquer outro cartão de bilhetagem de transporte e você pode adquirir nos terminais de compra do bilhete do MUNI. 
 
-Para cada sistema a tarifação é de um jeito, como explico a seguir:
+Para cada sistema a tarifação é de um jeito, confira a seguir:
 
 
 #### BART
-O [BART](https://www.bart.gov/) é um sistema de tren que fazem a ligação das cidades da bahia de San Francisco (inclusive os aeroportos).
+O [BART](https://www.bart.gov/) é um sistema de trem que faz a ligação das cidades da Baía de San Francisco (em inglês: San Francisco Bay), inclusive aeroportos.
 
 ![Mapa das estações do BART](https://www.bart.gov/sites/all/themes/bart_desktop/img/system-map.gif)
 
-A tarifação dele é baseada no número de estações que você utiliza, por exemplo: se você sai do Aeroporto Internacional de San Francisco e desembarca na Powell St. (mais próximo do Moscone Center) $8.65 dólares. Quando estava hospedado em West Oakland (do outro lado da bahia) e desembarcava na Powell o custo era de $3.10.
+A tarifação dele é baseada no número de estações que você utiliza, por exemplo: se você sai do Aeroporto Internacional de San Francisco e desembarca na Powell St. (mais próximo do Moscone Center) custa $8.65 dólares,se você embarca em West Oakland (do outro lado da Baía) e desembarca na Powell o custo é de $3.10.
 
-Para embarcar no BART você precisa comprar um ticket com o valor correspondente ao percurso que deseja fazer. Antes da catraca existem terminais aonde é possível comprar os tickets ou recarregar o Clipper Card. Esses terminais aceitam dinheiro e cartão de crédito. Lembre-se de fazer isso ANTES de embarcar sempre. Algumas vezes os terminais dentro da área de embarque não funcionam e o funcionário que fica lá não vai te ajudar com trocos.
+Para embarcar no BART você precisa comprar um ticket com o valor correspondente ao percurso que deseja fazer. Antes da catraca existem terminais onde é possível comprar os tickets ou recarregar o Clipper Card. Esses terminais aceitam dinheiro e cartão de crédito. 
+Lembre-se de fazer isso ANTES de embarcar sempre. Algumas vezes os terminais dentro da área de embarque não funcionam e o funcionário que fica lá não vai te ajudar com trocos.
 
 **Dica:** Você pode embarcar de bike no BART, mas não utilize as escadas rolantes e não encoste sua bicicletas nas áreas de portadores de necessidades especiais.
 
-
 Há algumas informações curiosas sobre o BART:
-* na mesma estação passam vários trens que tem destinos diferentes. Nem todos ligam ao aeroporto e você precisa ficar atento as indicações sobre qual é o trem atual na estação. Nos painéis indicam inclusive o tamanho da composição e o local para embarque (devido ao número de composições).
+* Na mesma estação passam vários trens que tem destinos diferentes. Nem todos ligam ao aeroporto e você precisa ficar atento as indicações sobre qual é o trem atual na estação. Nos painéis indicam inclusive o tamanho da composição e o local para embarque (devido ao número de composições).
 * Você ouve os anúncios dos próximos trens que estão chegando por duas vozes sintetizadas, que são conhecidas como [George e Gracie](http://www.bart.gov/news/articles/2009/news20090309). George indica os trens em um sentido enquanto Gracie indica o sentido contrário. [Ouça aqui como funciona](https://www.youtube.com/watch?v=CG4uaxoF2b8). 
 
 
@@ -101,9 +101,9 @@ Se você pegar um ônibus e pagar em dinheiro, o motorista te entrega o bilhete 
 
 
 #### CALTRAIN
-O [Caltrain](http://www.caltrain.com/) liga as cidades do Vale do Silício. Se você vai fazer algum passeio de San Francisco para Mountain View, Palo Alto, ou Cupertino ele será o meio mais fácil e barato para chegar até elas caso não vá de carro. O sistema de tarifação é baseado em zonas. Você pode utilizar o Clipper Card (passando no leitor na estação que embarcar e na que desembarcar. Sempre tenha algo próximo de $10 dólares de saldo, pois na primeira passagem ele cobra o valor total das zonas e reembolsa quando você faz a leitura na estação que desembarcar.
+O [Caltrain](http://www.caltrain.com/) liga as cidades do Vale do Silício. Se você vai fazer algum passeio de San Francisco para Mountain View, Palo Alto, ou Cupertino ele será o meio mais fácil e barato para chegar até elas caso não vá de carro. O sistema de tarifação é baseado em zonas. Você pode utilizar o Clipper Card (passando no leitor na estação que embarcar e na que desembarcar). Sempre tenha algo próximo de $10 dólares de saldo, pois na primeira passagem ele cobra o valor total das zonas e reembolsa quando você faz a leitura na estação que desembarcar.
 
-Você pode comprar o ticket em terminais automáticos e fique atendo ao número de zonas que precisa atravessar. Há fiscalização aleatório que irá pedir para que apresente o bilhete de embarque ou o Clipper Card para conferência.
+Você pode comprar o ticket em terminais automáticos e fique atento ao número de zonas que precisa atravessar. Há fiscalização aleatória que irá pedir para que apresente o bilhete de embarque ou o Clipper Card para conferência.
 
 
 ### Turismo
