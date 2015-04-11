@@ -132,6 +132,17 @@ Disponibilizaremos links para atividades relacionadas no período do Google I/O.
 ### Apps
 Aplicativos que você pode baixar para aproveitar 100% da experiência de San Francisco:
 * [Uber](https://www.uber.com), para pedir táxis e carros particulares: [Android](https://play.google.com/store/apps/details?id=com.ubercab), [iOS](https://itunes.apple.com/br/app/uber/id368677368?mt=8)
+* [Lyft](https://www.lyft.com/), mais uma alternativa aos taxis. Nele você consegue uma "carona", em troca de dinheiro (Veja a seção de dicas para os participantes do Google I/O para conseguir um cupom de desconto): [Android](https://play.google.com/store/apps/details?id=me.lyft.android), [iOS](https://itunes.apple.com/us/app/lyft-taxi-bus-app-alternative/id529379082?mt=8)
+* [Booking.com](https://www.booking.com/), onde você pode reservar hotéis, e além disso possui vários guias de cidades, incluindo San Francisco: [Android](https://play.google.com/store/apps/details?id=com.booking), [iOS](https://itunes.apple.com/app/booking.com-hotel-reservations/id367003839)
+* [TripIt](https://www.tripit.com/), auxilia no planejamento completo de sua viajem: [Android](https://play.google.com/store/apps/details?id=com.tripit), [iOS](https://itunes.apple.com/br/app/tripit-travel-organizer-free/id311035142?mt=8)
+* My Maps, versão especial do aplicativo do Google Maps onde você pode criar seus próprios mapas: [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.m4b)
+* [TripAdvisor](https://www.tripadvisor.com/), mais uma alternativa para o planejamento da sua viagem, permitindo até a criação de um mapa personalizado: [Android](https://play.google.com/store/apps/details?id=com.tripadvisor.tripadvisor&hl=pt_BR), [iOS](https://itunes.apple.com/us/app/tripadvisor-hotels-flights/id284876795?mt=8)
+* San Francisco City Guide, versão especial do aplicativo do TripAdvisor, dedicado a San Francisco: [Android](https://play.google.com/store/apps/details?id=com.tripadvisor.android.apps.cityguide.sanfrancisco)
+* [Yelp](https://www.yelp.com/), um dos melhores aplicativos para encontrar restaurantes, bares, cafés, entre outros: [Android](https://play.google.com/store/apps/details?id=com.yelp.android&hl=pt_BR), [iOS](https://itunes.apple.com/br/app/yelp/id284910350?mt=8)
+* Moovit, que indica em tempo real os horários de partida e chegada de ônibus, trens e metrô: [Android](https://play.google.com/store/apps/details?id=com.tranzmate)
+* Super BART (and Caltrain), se você leu a seção de mobilidade urbana, sabe como é importante saber tudo sobre o BART e o Caltrain. Esse app permite acompanhar e planejar suas viagens com ele: [Android](https://play.google.com/store/apps/details?id=com.getgoodcode.bart)
+* Caltrain, aplicativo oficial do Caltrain: [Android](https://play.google.com/store/apps/details?id=interprone.caltrain)
+* [Duolingo](http://duolingo.com), para você já ir treinando, desde já, seu inglês (e outras linguagens): [Android](https://play.google.com/store/apps/details?id=com.duolingo), [iOS](https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128?mt=8)
 
 ### Fique por dentro das novidades
 * [Comunidade Google I/O no Plus](https://plus.google.com/u/0/communities/105113874753230740413)
