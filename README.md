@@ -16,7 +16,7 @@ Passaporte em mãos? Ótimo! Você já pode viajar para diversos lugares ao redo
 
 O [DS-160](https://ceac.state.gov/genniv) é o formulário que você precisará preencher com todos os seus dados em Inglês para que possam analisar sua solicitação, se Inglês é um problema para você, existem vários serviços que podem te ajudar ou você pode pedir ajuda pra um amigo.
 
-Para esclarecer qualquer dúvida no processo confira os vídeos na página da [Embaixada Americana](http://portuguese.brazil.usembassy.gov/visavideos.html) ou ainda um resumão no canal ["Um bilhete, por favor"](https://www.youtube.com/watch?v=8BBak2uIW6M).
+Para esclarecer qualquer dúvida no processo confira o link ["Como Solicitar um Visto"](http://portuguese.brazil.usembassy.gov/pt/niv-apply2.html) do site da Missão Diplomática dos Estados Unidos com algumas informações valiosas, os vídeos na página da [Embaixada Americana](http://portuguese.brazil.usembassy.gov/visavideos.html) ou ainda um resumão no canal ["Um bilhete, por favor"](https://www.youtube.com/watch?v=8BBak2uIW6M).
 
 #### Dica para a entrevista do visto
 Assim que tiver o ingresso confirmado do Google I/O, solicite uma carta-convite para googleio2015@google.com informando que você vai solicitar o visto americano. Em alguns casos, essa carta foi suficiente para ter o visto aprovado.
