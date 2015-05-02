@@ -69,6 +69,20 @@ Quem nunca sonhou em conhecer grandes empresas e/ou Startups da área, confira u
 * [Heroku HQ](https://foursquare.com/v/heroku/4b07537df964a5200afc22e3)
 * [Square HQ](https://foursquare.com/v/square-hq/4b042837f964a520ad5122e3)
 
+#### Google I/O Extended
+Você também pode participar dos vários eventos organizados pelos GDGs Brasil afora.
+O Google I/O Extended tem como objetivo reunir a comunidade local de desenvolvedores para acompanhar o Google I/O e também promover atividades com os participantes, confira a lista das cidades abaixo:
+
+* I/O Extended: [Aracaju](https://plus.google.com/events/curiai98q6m206nqnf9vjd2bi0o)
+* I/O Extended: [Brasília](https://plus.google.com/events/cbmounfo35fkfncpvhn0nbb3vek)
+* I/O Extended: [Campinas](https://plus.google.com/u/1/events/cqb080vnkovfuqghcuqrcpchb94)
+* I/O Extended: [Ilhéus](https://plus.google.com/events/cdg6gr585iunldfotbpjh64qgoc)
+* I/O Extended: [João Pessoa](https://plus.google.com/u/0/events/ckl1j4bp8sk39c8h44jqmebc8fs)
+* I/O Extended: [Maceió](https://plus.google.com/events/c5n52eq0uph7i581b9oa1jqfai0)
+* I/O Extended: [Natal](https://plus.google.com/events/c8rgqtp1a3s8h3a2qv9otd0pa5s)
+* I/O Extended: [Recife](https://plus.google.com/u/0/events/c17rltc9krm1gm4maor6lj6ioa4)
+* I/O Extended: [São Paulo](https://plus.google.com/events/chvnffkpgqjkis98roi6fgi12o4)
+
 ### Mobilidade Urbana
 Caso opte por utilizar o transporte público em San Francisco, você tem basicamente duas opções: BART ou MUNI. Nos dois casos recomendo adquirir o [Clipper Card](https://www.clippercard.com/). Ele funciona como o Bilhete Único ou qualquer outro cartão de bilhetagem de transporte e você pode adquirir nos terminais de compra do bilhete do MUNI. 
 
