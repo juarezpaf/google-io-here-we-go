@@ -128,7 +128,11 @@ Você pode comprar o ticket em terminais automáticos e fique atento ao número 
 * [Bars](http://www.sftourismtips.com/irish-pubs-in-san-francisco.html)
 
 ### Meetups
-Disponibilizaremos links para atividades relacionadas no período do Google I/O.
+No período do Google I/O você encontrará diversas atividades, confira abaixo alguns destaques:
+* [Google I/O 2015 Timeframe Events in SF Bay Area](https://docs.google.com/spreadsheets/d/1GVJfdSPuY7ImfNOpKhAvzhT2aWE_MJ8_xyGvH1Pw4ts/edit#gid=0) :zap:
+* [May 27 - Node.js Meetup](http://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/events/222189855)
+* [May 28 - Meteor Devshop SF](http://www.meetup.com/Meteor-SFBay/events/222245224)
+
 
 ### Transporte
 * [Mapa de estações do BART](https://drive.google.com/open?id=0B54_KAxOREh0dTlPc0RDZHBmZnc&authuser=0)
