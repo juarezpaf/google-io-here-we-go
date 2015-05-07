@@ -76,6 +76,7 @@ O Google I/O Extended tem como objetivo reunir a comunidade local de desenvolved
 * I/O Extended: [Aracaju](https://plus.google.com/events/curiai98q6m206nqnf9vjd2bi0o)
 * I/O Extended: [Brasília](https://plus.google.com/events/cbmounfo35fkfncpvhn0nbb3vek)
 * I/O Extended: [Campinas](https://plus.google.com/u/1/events/cqb080vnkovfuqghcuqrcpchb94)
+* I/O Extended: [Goiânia](https://plus.google.com/u/0/events/c4gn0gs5ob0t3qj0u3o7vk11v8k)
 * I/O Extended: [Ilhéus](https://plus.google.com/events/cdg6gr585iunldfotbpjh64qgoc)
 * I/O Extended: [João Pessoa](https://plus.google.com/u/0/events/ckl1j4bp8sk39c8h44jqmebc8fs)
 * I/O Extended: [Maceió](https://plus.google.com/events/c5n52eq0uph7i581b9oa1jqfai0)
